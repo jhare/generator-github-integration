@@ -17,6 +17,7 @@ describe('generator-browserify-gulpjs generator', function () {
     }.bind(this));
   });
 
+  /*
   it('creates expected files', function (done) {
     var expected = [
       // add files you expect to exist here.
@@ -33,4 +34,5 @@ describe('generator-browserify-gulpjs generator', function () {
       done();
     });
   });
+  */
 });
